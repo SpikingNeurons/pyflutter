@@ -7,7 +7,7 @@ pyflutter
         :target: https://pypi.python.org/pypi/pyflutter
 
 .. image:: https://img.shields.io/travis/SpikingNeuron/pyflutter.svg
-        :target: https://travis-ci.com/SpikingNeuron/pyflutter
+        :target: https://travis-ci.com/SpikingNeurons/pyflutter
 
 .. image:: https://readthedocs.org/projects/pyflutter/badge/?version=latest
         :target: https://pyflutter.readthedocs.io/en/latest/?badge=latest

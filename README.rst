@@ -17,6 +17,10 @@ pyflutter
      :target: https://pyup.io/repos/github/SpikingNeuron/pyflutter/
      :alt: Updates
 
+.. image:: https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod
+     :target: https://gitpod.io/#https://github.com/SpikingNeurons/pyflutter
+     :alt: Gitpod Ready-to-Code
+
 
 
 Write flutter in Python with FastAPI backend

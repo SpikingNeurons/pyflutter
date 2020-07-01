@@ -13,9 +13,8 @@ pyflutter
         :target: https://pyflutter.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-
 .. image:: https://pyup.io/repos/github/SpikingNeuron/pyflutter/shield.svg
-     :target: https://pyup.io/repos/github/SpikingNeuron/pyflutter/
+     :target: https://pyup.io/repos/github/SpikingNeurons/pyflutter/
      :alt: Updates
 
 
